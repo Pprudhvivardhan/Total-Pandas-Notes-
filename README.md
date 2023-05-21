@@ -17,6 +17,10 @@ Total Topics! 🎉📚 If you're passionate about data analysis and Python progr
 
 6.  MultiIndex: Explore the power of hierarchical indexing in pandas. Learn how to create, manipulate, and work with DataFrames that have multiple levels of indices, enabling you to organize and analyze complex data structures. 📝💡🔍📊
 
+7. 🔍 groupby is a pandas function that 📊 groups data in a DataFrame based on specified criteria. It allows you to split the data into groups 📂, perform operations on each group 🧮, and then combine the results.
+
+By using groupby, you can easily 🧩 analyze and summarize data based on specific categories or groups within your dataset. 🎯🔢
+
 🌟 Whether you're a data analyst, data scientist, or Python enthusiast, Pandas Total Topics is your ultimate companion in mastering pandas and unlocking its full potential for data analysis. 🚀🔓
 
 📢 Share this post with your network and let them know about Pandas Total Topics! Together, let's empower more professionals in the world of data analysis! 🌍💪
