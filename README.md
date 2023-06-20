@@ -1,7 +1,7 @@
 # Total-Pandas-Notes-
 Total Topics! 🎉📚 If you're passionate about data analysis and Python programming, this guide is a must-have resource! 🚀💡
 
-🐼 Pandas Total Topics is a comprehensive guide that takes you on a deep dive into the world of pandas, Python's powerful library for data manipulation and analysis. 📊🐍 Whether you're a beginner looking to learn the basics or an experienced data scientist seeking advanced techniques, this guide has got you covered! 💡
+🐼 Pandas Total Topics is a comprehensive guide that takes you on a deep dive into the world of pandas, Python's powerful library for data manipulation and analysis. 📊🐍 Whether you're a beginner looking to learn the basics or an experienced data scientist seeking advanced techniques, this guide has got you covered! 🔢💡
 
 📖 Here's what you can expect to explore in Pandas Total Topics:
 
